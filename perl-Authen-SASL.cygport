@@ -1,0 +1,7 @@
+NAME="perl-Authen-SASL"
+VERSION=2.16
+RELEASE=1
+CPAN_AUTHOR=gbarr
+inherit perl
+
+DIFF_EXCLUDES="MYMETA.*"
